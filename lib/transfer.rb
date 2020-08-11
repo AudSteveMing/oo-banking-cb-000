@@ -57,5 +57,6 @@ class Transfer
       receiver.balance = receiver.balance - amount
     else
   end
+end
   # your code here
 end
